@@ -10,7 +10,7 @@ if __name__ == "__main__" :
     train_in = []
     train_out = []
     history = []
-    for _ in range(4)
+    for _ in range(4) :
         tmp1, tmp2 = map(int, input().split())
         train_out.append(tmp1)
         train_in.append(tmp2)
