@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681ac136-c0d2-40c5-91a2-fbab9fa1f9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simulation/1966_프린터큐.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Baek_Algorithm_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Baek_Algorithm_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS/1012_유기농배추.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/1012_유기농배추.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,45 +22,45 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4882" />
+          <entry key="py" value="5917" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4882" />
+          <entry key="Python" value="5917" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BFS/1697_숨바꼭질.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DFS/1012_유기농배추.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="495">
+              <caret line="33" column="26" lean-forward="true" selection-end-line="48" />
+              <folding>
+                <marker date="1560500073197" expanded="true" signature="90:534" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Simulation/1966_프린터큐.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DFS/2667_단지번호붙이기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-              <folding>
-                <marker date="1560496180946" expanded="true" signature="15:452" ph="..." />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -89,6 +86,7 @@
         <option value="$PROJECT_DIR$/BFS/1697_숨바꼭질.py" />
         <option value="$PROJECT_DIR$/Simulation/1094_막대기.py" />
         <option value="$PROJECT_DIR$/Simulation/1966_프린터큐.py" />
+        <option value="$PROJECT_DIR$/DFS/1012_유기농배추.py" />
       </list>
     </option>
   </component>
@@ -121,11 +119,6 @@
               <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
               <item name="DFS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Baek_Algorithm_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Simulation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -149,7 +142,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1966_프린터큐">
+  <component name="RunManager" selected="Python.1012_유기농배추">
+    <configuration name="1012_유기농배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Baek_Algorithm_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/1012_유기농배추.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,27 +198,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation/1966_프린터큐.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2178_미로탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Baek_Algorithm_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2178_미로탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +249,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2178_미로탐색" />
       <item itemvalue="Python.2455_지능형기차" />
       <item itemvalue="Python.2667_단지번호붙이기" />
       <item itemvalue="Python.1697_숨바꼭질" />
       <item itemvalue="Python.1966_프린터큐" />
+      <item itemvalue="Python.1012_유기농배추" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1012_유기농배추" />
         <item itemvalue="Python.1966_프린터큐" />
         <item itemvalue="Python.1697_숨바꼭질" />
         <item itemvalue="Python.2667_단지번호붙이기" />
         <item itemvalue="Python.2455_지능형기차" />
-        <item itemvalue="Python.2178_미로탐색" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +280,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -322,13 +316,6 @@
     <entry file="file://$PROJECT_DIR$/BFS/2178_미로탐색.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFS/2667_단지번호붙이기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Simulation/1094_막대기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -345,10 +332,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Simulation/1966_프린터큐.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="315">
+          <caret line="21" column="28" lean-forward="true" selection-end-line="33" selection-end-column="26" />
           <folding>
             <marker date="1560496180946" expanded="true" signature="15:452" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS/2667_단지번호붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS/1012_유기농배추.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="26" lean-forward="true" selection-end-line="48" />
+          <folding>
+            <marker date="1560500073197" expanded="true" signature="90:534" ph="..." />
           </folding>
         </state>
       </provider>
