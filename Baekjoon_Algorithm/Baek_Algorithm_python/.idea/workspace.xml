@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681ac136-c0d2-40c5-91a2-fbab9fa1f9e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1423_미세먼지안녕!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS/7576_토마토.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DFS/1012_유기농배추.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/1012_유기농배추.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,53 +17,56 @@
     <session id="333105142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5917" />
+          <entry key="py" value="9411" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5917" />
+          <entry key="Python" value="9411" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DFS/1012_유기농배추.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS/7576_토마토.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="26" lean-forward="true" selection-end-line="48" />
+            <state relative-caret-position="297">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding>
-                <marker date="1560500073197" expanded="true" signature="90:534" ph="..." />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS/2667_단지번호붙이기.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1423_미세먼지안녕!.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="435">
+              <caret line="43" column="25" selection-end-line="101" />
+              <folding>
+                <marker date="1562055628861" expanded="true" signature="614:1795" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +79,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -87,6 +98,8 @@
         <option value="$PROJECT_DIR$/Simulation/1094_막대기.py" />
         <option value="$PROJECT_DIR$/Simulation/1966_프린터큐.py" />
         <option value="$PROJECT_DIR$/DFS/1012_유기농배추.py" />
+        <option value="$PROJECT_DIR$/BFS/7576_토마토.py" />
+        <option value="$PROJECT_DIR$/1423_미세먼지안녕!.py" />
       </list>
     </option>
   </component>
@@ -119,6 +132,11 @@
               <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
               <item name="DFS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Baek_Algorithm_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Simulation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -127,6 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/taewan/Desktop/Algorithm/Baekjoon_Algorithm/Baek_Algorithm_python/BFS/7576_토마토.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -142,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1012_유기농배추">
+  <component name="RunManager" selected="Python.1423_미세먼지안녕!">
     <configuration name="1012_유기농배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +175,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/1012_유기농배추.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1423_미세먼지안녕!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Baek_Algorithm_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1423_미세먼지안녕!.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2455_지능형기차" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7576_토마토" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,32 +254,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Simulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation/2455_지능형기차.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2667_단지번호붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Baek_Algorithm_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/2667_단지번호붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/7576_토마토.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +268,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2455_지능형기차" />
-      <item itemvalue="Python.2667_단지번호붙이기" />
       <item itemvalue="Python.1697_숨바꼭질" />
       <item itemvalue="Python.1966_프린터큐" />
       <item itemvalue="Python.1012_유기농배추" />
+      <item itemvalue="Python.7576_토마토" />
+      <item itemvalue="Python.1423_미세먼지안녕!" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1423_미세먼지안녕!" />
+        <item itemvalue="Python.7576_토마토" />
         <item itemvalue="Python.1012_유기농배추" />
         <item itemvalue="Python.1966_프린터큐" />
         <item itemvalue="Python.1697_숨바꼭질" />
-        <item itemvalue="Python.2667_단지번호붙이기" />
-        <item itemvalue="Python.2455_지능형기차" />
       </list>
     </recent_temporary>
   </component>
@@ -287,13 +306,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -316,13 +335,7 @@
     <entry file="file://$PROJECT_DIR$/BFS/2178_미로탐색.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Simulation/1094_막대기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulation/1094_막대기.py" />
     <entry file="file://$PROJECT_DIR$/BFS/1697_숨바꼭질.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -334,25 +347,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="28" lean-forward="true" selection-end-line="33" selection-end-column="26" />
-          <folding>
-            <marker date="1560496180946" expanded="true" signature="15:452" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS/1012_유기농배추.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DFS/2667_단지번호붙이기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFS/1012_유기농배추.py">
+    <entry file="file://$PROJECT_DIR$/BFS/7576_토마토.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="26" lean-forward="true" selection-end-line="48" />
+        <state relative-caret-position="297">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
-            <marker date="1560500073197" expanded="true" signature="90:534" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1423_미세먼지안녕!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="43" column="25" selection-end-line="101" />
+          <folding>
+            <marker date="1562055628861" expanded="true" signature="614:1795" ph="..." />
           </folding>
         </state>
       </provider>
