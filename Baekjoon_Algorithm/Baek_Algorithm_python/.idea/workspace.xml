@@ -2,26 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681ac136-c0d2-40c5-91a2-fbab9fa1f9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/그래프/11266_단절점.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/11404_플로이드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/3860_할로윈묘지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gogo/gogo/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/xcuserdata/taewan.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zebal/zebal/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/dp/1932_정수삼각형.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/dp/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/dp/b?" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/dp/d[i][j]" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/dp/n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/정수론/1735_분수합" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/정수론/2960_에라토스테네스의" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/11659_구간합구하기4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/11660_구간합구하기3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/2579_계단오르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정수론/1644_소수의연속합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/test/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/자료구조/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/자료구조/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gogo/gogo.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gogo/gogo/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/xcuserdata/taewan.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sds_algorithm/sds_algorithm/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zebal/zebal.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zebal/zebal/main.cpp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,31 +47,32 @@
     <session id="333105142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="13" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12285" />
+          <entry key="py" value="15623" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12285" />
+          <entry key="Python" value="15623" />
         </counts>
       </usages-collector>
     </session>
@@ -65,25 +80,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/그래프/11404_플로이드.py">
+        <entry file="file://$PROJECT_DIR$/dp/2579_계단오르기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-              <folding>
-                <marker date="1563438519672" expanded="true" signature="14:203" ph="..." />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/그래프/3860_할로윈묘지.py">
+        <entry file="file://$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="15" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
-              <folding>
-                <marker date="1563439790515" expanded="true" signature="140:810" ph="..." />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시간복잡도/2143_두배열의합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -120,6 +138,11 @@
         <option value="$PROJECT_DIR$/1423_미세먼지안녕!.py" />
         <option value="$PROJECT_DIR$/그래프/11404_플로이드.py" />
         <option value="$PROJECT_DIR$/그래프/3860_할로윈묘지.py" />
+        <option value="$PROJECT_DIR$/정수론/1644_소수의연속합.py" />
+        <option value="$PROJECT_DIR$/dp/11659_구간합구하기4.py" />
+        <option value="$PROJECT_DIR$/dp/11660_구간합구하기3.py" />
+        <option value="$PROJECT_DIR$/dp/2579_계단오르기.py" />
+        <option value="$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py" />
       </list>
     </option>
   </component>
@@ -162,6 +185,16 @@
               <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
               <item name="그래프" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Baek_Algorithm_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
+              <item name="시간복잡도" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Baek_Algorithm_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baek_Algorithm_python" type="462c0819:PsiDirectoryNode" />
+              <item name="자료구조" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -186,8 +219,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3860_할로윈묘지">
-    <configuration name="1012_유기농배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2579_계단오르기">
+    <configuration name="11659_구간합구하기4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/1012_유기농배추.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/11659_구간합구하기4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11404_플로이드" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11660_구간합구하기3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +249,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/11404_플로이드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/11660_구간합구하기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1423_미세먼지안녕!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1644_소수의연속합" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +270,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/정수론" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1423_미세먼지안녕!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/정수론/1644_소수의연속합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2579_계단오르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Baek_Algorithm_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/2579_계단오르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,41 +325,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7576_토마토" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Baek_Algorithm_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/7576_토마토.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.1012_유기농배추" />
-      <item itemvalue="Python.7576_토마토" />
-      <item itemvalue="Python.1423_미세먼지안녕!" />
-      <item itemvalue="Python.11404_플로이드" />
       <item itemvalue="Python.3860_할로윈묘지" />
+      <item itemvalue="Python.1644_소수의연속합" />
+      <item itemvalue="Python.11659_구간합구하기4" />
+      <item itemvalue="Python.11660_구간합구하기3" />
+      <item itemvalue="Python.2579_계단오르기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2579_계단오르기" />
+        <item itemvalue="Python.11660_구간합구하기3" />
+        <item itemvalue="Python.11659_구간합구하기4" />
+        <item itemvalue="Python.1644_소수의연속합" />
         <item itemvalue="Python.3860_할로윈묘지" />
-        <item itemvalue="Python.11404_플로이드" />
-        <item itemvalue="Python.1423_미세먼지안녕!" />
-        <item itemvalue="Python.7576_토마토" />
-        <item itemvalue="Python.1012_유기농배추" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +363,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -343,6 +376,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -392,9 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,7 +457,7 @@
     <entry file="file://$PROJECT_DIR$/그래프/11404_플로이드.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding>
             <marker date="1563438519672" expanded="true" signature="14:203" ph="..." />
           </folding>
@@ -418,10 +467,52 @@
     <entry file="file://$PROJECT_DIR$/그래프/3860_할로윈묘지.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
-          <caret line="49" column="15" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
-          <folding>
-            <marker date="1563439790515" expanded="true" signature="140:810" ph="..." />
-          </folding>
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시간복잡도/2003_수들의합.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시간복잡도/2143_두배열의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/정수론/1644_소수의연속합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/11659_구간합구하기4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/11660_구간합구하기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/2579_계단오르기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
