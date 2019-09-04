@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681ac136-c0d2-40c5-91a2-fbab9fa1f9e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17135_캐슬디펜스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS/17142_연구소3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/xcuserdata/taewan.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,61 +31,46 @@
     <session id="333105142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="5" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="20" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="20" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="16027" />
+          <entry key="py" value="19685" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="16027" />
+          <entry key="Python" value="19685" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp/2579_계단오르기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py">
+        <entry file="file://$PROJECT_DIR$/BFS/17142_연구소3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/시간복잡도/2143_두배열의합.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="465">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <folding>
+                <marker date="1567404120644" expanded="true" signature="30:510" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,9 +86,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
       <find>rank</find>
+      <find>12</find>
+      <find>a = 0</find>
+      <find>print</find>
+      <find>cnt =  10</find>
     </findStrings>
+    <replaceStrings>
+      <replace>print</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -111,6 +118,8 @@
         <option value="$PROJECT_DIR$/dp/11660_구간합구하기3.py" />
         <option value="$PROJECT_DIR$/dp/2579_계단오르기.py" />
         <option value="$PROJECT_DIR$/dp/14003_가장긴증가하는수열.py" />
+        <option value="$PROJECT_DIR$/17135_캐슬디펜스.py" />
+        <option value="$PROJECT_DIR$/BFS/17142_연구소3.py" />
       </list>
     </option>
   </component>
@@ -126,7 +135,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Baek_Algorithm_python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14003_가장긴증가하는수열">
+  <component name="RunManager" selected="Python.17135_캐슬디펜스">
     <configuration name="11659_구간합구하기4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1644_소수의연속합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17135_캐슬디펜스" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baek_Algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/정수론" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/정수론/1644_소수의연속합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17135_캐슬디펜스.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,19 +318,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1644_소수의연속합" />
       <item itemvalue="Python.11659_구간합구하기4" />
       <item itemvalue="Python.11660_구간합구하기3" />
       <item itemvalue="Python.2579_계단오르기" />
       <item itemvalue="Python.14003_가장긴증가하는수열" />
+      <item itemvalue="Python.17135_캐슬디펜스" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17135_캐슬디펜스" />
         <item itemvalue="Python.14003_가장긴증가하는수열" />
         <item itemvalue="Python.2579_계단오르기" />
         <item itemvalue="Python.11660_구간합구하기3" />
         <item itemvalue="Python.11659_구간합구하기4" />
-        <item itemvalue="Python.1644_소수의연속합" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +350,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1423_미세먼지안녕!.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="43" column="25" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/그래프/11404_플로이드.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -472,6 +484,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1423_미세먼지안녕!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="25" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/시간복잡도/2143_두배열의합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -483,6 +502,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17135_캐슬디펜스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="32" selection-end-line="107" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS/17142_연구소3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <marker date="1567404120644" expanded="true" signature="30:510" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
