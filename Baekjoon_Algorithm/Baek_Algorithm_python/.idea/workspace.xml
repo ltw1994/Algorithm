@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681ac136-c0d2-40c5-91a2-fbab9fa1f9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/5373_큐빙/5373_큐빙/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17135_캐슬디펜스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS/17142_연구소3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/xcuserdata/taewan.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test/test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/카카오/15999_뒤집기/15999_뒤집기.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/카카오/15999_뒤집기/15999_뒤집기.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/카카오/15999_뒤집기/15999_뒤집기.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/카카오/15999_뒤집기/15999_뒤집기.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/카카오/15999_뒤집기/15999_뒤집기.xcodeproj/xcuserdata/taewan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_cpp/카카오/15999_뒤집기/15999_뒤집기/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어.xcodeproj/project.xcworkspace/xcuserdata/taewan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_cpp/삼성기출/16236_아기상어/16236_아기상어/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +21,12 @@
     <session id="333105142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -67,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/BFS/17142_연구소3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding>
                 <marker date="1567404120644" expanded="true" signature="30:510" ph="..." />
               </folding>
@@ -515,7 +505,7 @@
     <entry file="file://$PROJECT_DIR$/BFS/17142_연구소3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
             <marker date="1567404120644" expanded="true" signature="30:510" ph="..." />
           </folding>
