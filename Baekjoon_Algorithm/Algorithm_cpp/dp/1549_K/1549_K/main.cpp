@@ -15,11 +15,16 @@ long long game(long long a, long long b) {
     long long result = 0 ;
     for(int k = 0 ; k < b ; k++) {
         result += A[a+k] ;
+//        cout << endl ;
+//        cout << "@" << a+k << endl ;
     }
     return result ;
 }
 
 int main() {
+    
+    ios_base::sync_with_stdio(false);
+    cin.tie(0); cout.tie(0);
     
     int N ;
     cin >> N ;
@@ -35,23 +40,23 @@ int main() {
     while(cnt < N) {
         long long num1, num2 ;
         for(int i = 1 ; i + cnt < N ; i++) {
-            if (cnt + 2 * i > N) break ;
+            if (cnt + 2 * i > N ) break ;
             num1 = game(cnt, i) ;
             for(int j = i ; cnt + j < N - i + 1; j++)
             {
               //  cout << cnt + j << endl ;
                 num2 = game(cnt+j , i) ;
-                cout << "i = " << cnt << " j = " << cnt + j << " k = " << i << " num1 = " << num1 << "num2 = " << num2 << endl ;//
+                //cout << "i = " << cnt << " j = " << cnt + j << " k = " << i << " num1 = " << num1 << "num2 = " << num2 << endl ;//
 
                 if (abs(num2 - num1) <= mn) {
-                    res = cnt ;
+                    res = i ;
                     mn = abs(num2 - num1) ;
                 }
             }
         }
         cnt += 1 ;
     }
-    cout << res+1 << endl ;
+    cout << res << endl ;
     cout << mn ;
     return 0;
 }
