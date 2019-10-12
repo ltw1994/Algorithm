@@ -12,6 +12,8 @@ using namespace std ;
 
 int T[16] ;
 int P[16] ;
+int D[16] ;
+int result = 0 ;
 
 int main() {
     
@@ -21,6 +23,17 @@ int main() {
         cin >> T[i] >> P[i] ;
     }
     
+    for(int i = 0 ; i < N+1 ; i++) {
+        for(int j = 0 ; j < i ; j++) {
+            D[i] = max(D[i], D[j]) ;
+            
+            if (j + T[j] == i) {
+                D[i] = max(D[i], D[j] + P[j]) ;
+            }
+        }
+        result = max(result, D[i]) ;
+    }
+    cout << result ;
     
     return 0;
 }
